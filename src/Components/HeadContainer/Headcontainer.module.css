@@ -1,0 +1,15 @@
+
+.Headcontainer{
+
+    /* border: 2px solid red; */
+    height: 150px;
+    width: 93%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+}
+.Headcontainer p{
+    width: 84%;
+}
