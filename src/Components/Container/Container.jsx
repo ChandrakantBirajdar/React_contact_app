@@ -32,7 +32,7 @@ function Container() {
                 </form>
                 <div className={Style.lastbutton}>
                     
-                <button>Submit</button>
+                <button>Submmit</button>
                 </div>
 
 
